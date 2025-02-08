@@ -14,6 +14,12 @@ config/name="RPGXC"
 config/features=PackedStringArray("4.3", "GL Compatibility")
 config/icon="res://firetit.png"
 
+[display]
+
+window/size/viewport_width=320
+window/size/viewport_height=180
+window/stretch/mode="viewport"
+
 [rendering]
 
 renderer/rendering_method="gl_compatibility"

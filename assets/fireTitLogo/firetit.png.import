@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b3hr01knyuhpx"
-path="res://.godot/imported/firetit.png-5ba985a31f8fa6bad7d8cd986a62146a.ctex"
+path="res://.godot/imported/firetit.png-b6845f0cdaa898d885e767cf4d00ba54.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://firetit.png"
-dest_files=["res://.godot/imported/firetit.png-5ba985a31f8fa6bad7d8cd986a62146a.ctex"]
+source_file="res://assets/fireTitLogo/firetit.png"
+dest_files=["res://.godot/imported/firetit.png-b6845f0cdaa898d885e767cf4d00ba54.ctex"]
 
 [params]
 
