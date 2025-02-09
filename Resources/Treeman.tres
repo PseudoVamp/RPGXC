@@ -1,0 +1,11 @@
+[gd_resource type="Resource" load_steps=3 format=3 uid="uid://b6206eg1pi3ax"]
+
+[ext_resource type="Script" path="res://BaseEnemy.gd" id="1_qcpnf"]
+[ext_resource type="Texture2D" uid="uid://dbe2i077byl3e" path="res://Fantasy Battlers - Free/Fantasy Battlers - Free/Original size/03.png" id="2_00eil"]
+
+[resource]
+script = ExtResource("1_qcpnf")
+name = "Druid"
+texture = ExtResource("2_00eil")
+health = 90
+damage = 10

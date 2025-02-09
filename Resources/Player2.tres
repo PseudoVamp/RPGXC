@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PlayerStats" load_steps=2 format=3 uid="uid://cj6lcv1a8mg4o"]
+
+[ext_resource type="Script" path="res://PlayerStats.gd" id="1_a74ua"]
+
+[resource]
+script = ExtResource("1_a74ua")
+name = "Alex"
+health = 35
+max_health = 35
+mana = 50
+attack_power = 15

@@ -11,16 +11,22 @@ config_version=5
 [application]
 
 config/name="RPGXC"
-config/features=PackedStringArray("4.3", "GL Compatibility")
-config/icon="res://firetit.png"
+config/features=PackedStringArray("4.3", "Forward Plus")
+config/icon="res://icon.svg"
+
+[autoload]
+
+State="*res://state.gd"
 
 [display]
 
 window/size/viewport_width=320
 window/size/viewport_height=180
-window/stretch/mode="viewport"
+window/size/window_width_override=1280
+window/size/window_height_override=720
+window/stretch/mode="canvas_items"
 
-[rendering]
+[editor]
 
-renderer/rendering_method="gl_compatibility"
-renderer/rendering_method.mobile="gl_compatibility"
+version_control/plugin_name="GitPlugin"
+version_control/autoload_on_startup=true
