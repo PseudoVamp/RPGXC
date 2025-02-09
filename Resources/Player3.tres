@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="PlayerStats" load_steps=2 format=3 uid="uid://cmyh0nmd3ldqo"]
+
+[ext_resource type="Script" path="res://PlayerStats.gd" id="1_0ktxc"]
+
+[resource]
+script = ExtResource("1_0ktxc")
+name = "June"
+health = 35
+max_health = 35
+mana = 50
+attack_power = 15
